@@ -1,15 +1,16 @@
-📆 Scheduler API
+# 📆 Scheduler API
 API 명세서
 https://documenter.getpostman.com/view/43316542/2sAYkKJxod
 
-    입력
-### 1. 일정 및 상세내용
 
-출력
+## 1. API 명세서
+https://documenter.getpostman.com/view/43316542/2sAYkKJxod
 
-
-기능
-- 일정 등록
-
-- 일정 조회
+## 2. 사용자 Interface 방식
+## 3. 입력
+## 4. 출력
+## 5. 기능
+## 6. 개발 환경
+## 7. 개발 기간
+## 8. 설계
 
