@@ -31,3 +31,9 @@ Java
 ## 7. 개발 기간
 2025.03.24 ~ 2025.03.26
 
+
+## 8. ERD
+
+![image](https://github.com/user-attachments/assets/792b2c92-f8b4-487c-8c86-9205f2384181)
+
+
